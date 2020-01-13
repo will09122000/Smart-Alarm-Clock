@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -3.53,
+    "lat": 50.72
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 10.1,
+    "feels_like": 7.93,
+    "temp_min": 8.33,
+    "temp_max": 11.67,
+    "pressure": 1005,
+    "humidity": 81
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.1,
+    "deg": 350
+  },
+  "clouds": {
+    "all": 20
+  },
+  "dt": 1578569833,
+  "sys": {
+    "type": 1,
+    "id": 1472,
+    "country": "GB",
+    "sunrise": 1578557630,
+    "sunset": 1578587261
+  },
+  "timezone": 0,
+  "id": 2649808,
+  "name": "Exeter",
+  "cod": 200
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "alarm_time": "08:05",
+    "day_0": "Monday",
+    "day_1": null,
+    "day_2": "Wednesday",
+    "day_3": "Thursday",
+    "day_4": null,
+    "day_5": null,
+    "day_6": null,
+    "label": "Wake up"
+  },
+  {
+    "alarm_time": "08:45",
+    "day_0": null,
+    "day_1": "Tuesday",
+    "day_2": null,
+    "day_3": null,
+    "day_4": "Friday",
+    "day_5": "Saturday",
+    "day_6": "Sunday",
+    "label": "Wake up"
+  },
+  {
+    "alarm_time": "13:00",
+    "day_0": null,
+    "day_1": null,
+    "day_2": "Wednesday",
+    "day_3": null,
+    "day_4": null,
+    "day_5": "Saturday",
+    "day_6": null,
+    "label": "Shopping"
+  }
+]

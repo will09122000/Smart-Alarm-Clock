@@ -1,0 +1,423 @@
+INFO: 2019-11-11 13:12:16,640 {'timestamp': '13:12:16', 'type': 'weather', 'description': 'Current Weather in Tewkesbury has been updated.', 'error': ''}
+INFO: 2019-11-11 13:12:22,368 127.0.0.1 - - [11/Nov/2019 13:12:22] "GET / HTTP/1.1" 200 -
+DEBUG: 2019-11-11 13:12:46,528 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 13:12:47,014 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 16083
+INFO: 2019-11-11 13:12:47,020 {'timestamp': '13:12:47', 'type': 'news', 'description': 'New news articlesGeneral election: Farage says Brexit party will not stand in 317 Tory seats - live news - The Guardian', 'error': ''}
+DEBUG: 2019-11-11 13:12:50,229 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 13:12:50,303 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 447
+INFO: 2019-11-11 13:12:53,390 127.0.0.1 - - [11/Nov/2019 13:12:53] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:12:56,447 {'timestamp': '13:12:56', 'type': 'news', 'description': 'New news articlesGeneral election: Farage says Brexit party will not stand in 317 Tory seats - live news - The Guardian', 'error': ''}
+INFO: 2019-11-11 13:12:57,414 127.0.0.1 - - [11/Nov/2019 13:12:57] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:12:58,376 127.0.0.1 - - [11/Nov/2019 13:12:58] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:13:05,883 {'timestamp': '13:13:05', 'type': 'news', 'description': 'New news articlesGeneral election: Farage says Brexit party will not stand in 317 Tory seats - live news - The Guardian', 'error': ''}
+INFO: 2019-11-11 13:13:07,482 127.0.0.1 - - [11/Nov/2019 13:13:07] "GET /notification-filter?alarm=True&news=True HTTP/1.1" 302 -
+INFO: 2019-11-11 13:13:07,489 127.0.0.1 - - [11/Nov/2019 13:13:07] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:13:08,246 127.0.0.1 - - [11/Nov/2019 13:13:08] "GET /notification-filter HTTP/1.1" 302 -
+INFO: 2019-11-11 13:13:08,253 127.0.0.1 - - [11/Nov/2019 13:13:08] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:13:12,820 127.0.0.1 - - [11/Nov/2019 13:13:12] "GET /notification-filter?weather=True HTTP/1.1" 302 -
+INFO: 2019-11-11 13:13:12,827 127.0.0.1 - - [11/Nov/2019 13:13:12] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:13:13,998 127.0.0.1 - - [11/Nov/2019 13:13:13] "GET /notification-filter?news=True HTTP/1.1" 302 -
+INFO: 2019-11-11 13:13:14,005 127.0.0.1 - - [11/Nov/2019 13:13:14] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:13:15,254 {'timestamp': '13:13:15', 'type': 'news', 'description': 'New news articlesGeneral election: Farage says Brexit party will not stand in 317 Tory seats - live news - The Guardian', 'error': ''}
+DEBUG: 2019-11-11 13:13:20,315 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 13:13:20,381 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 447
+INFO: 2019-11-11 13:13:24,688 {'timestamp': '13:13:24', 'type': 'news', 'description': 'New news articlesGeneral election: Farage says Brexit party will not stand in 317 Tory seats - live news - The Guardian', 'error': ''}
+INFO: 2019-11-11 13:13:34,067 {'timestamp': '13:13:34', 'type': 'news', 'description': "New news articlesAnt McPartlin and Anne-Marie enjoy double date with Declan Donnelly and Ali ahead of I'm A Celeb - Daily Mail", 'error': ''}
+INFO: 2019-11-11 13:13:41,632 {'timestamp': '13:13:41', 'type': 'news', 'description': "New news articlesAnt McPartlin and Anne-Marie enjoy double date with Declan Donnelly and Ali ahead of I'm A Celeb - Daily Mail", 'error': ''}
+INFO: 2019-11-11 13:13:49,182 {'timestamp': '13:13:49', 'type': 'news', 'description': "New news articlesAnt McPartlin and Anne-Marie enjoy double date with Declan Donnelly and Ali ahead of I'm A Celeb - Daily Mail", 'error': ''}
+DEBUG: 2019-11-11 13:13:50,392 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 13:13:50,457 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 447
+INFO: 2019-11-11 13:13:56,736 {'timestamp': '13:13:56', 'type': 'news', 'description': "New news articlesAnt McPartlin and Anne-Marie enjoy double date with Declan Donnelly and Ali ahead of I'm A Celeb - Daily Mail", 'error': ''}
+INFO: 2019-11-11 13:14:00,550 127.0.0.1 - - [11/Nov/2019 13:14:00] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:14:04,294 {'timestamp': '13:14:04', 'type': 'news', 'description': "New news articlesAnt McPartlin and Anne-Marie enjoy double date with Declan Donnelly and Ali ahead of I'm A Celeb - Daily Mail", 'error': ''}
+INFO: 2019-11-11 13:14:09,352 127.0.0.1 - - [11/Nov/2019 13:14:09] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:14:11,362 127.0.0.1 - - [11/Nov/2019 13:14:11] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:14:11,785 127.0.0.1 - - [11/Nov/2019 13:14:11] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:14:11,851 {'timestamp': '13:14:11', 'type': 'news', 'description': 'New news articlesEngland flooding: More rain due as disruption continues - BBC News', 'error': ''}
+INFO: 2019-11-11 13:14:14,409 127.0.0.1 - - [11/Nov/2019 13:14:14] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:14:16,967 127.0.0.1 - - [11/Nov/2019 13:14:16] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:14:18,174 {'timestamp': '13:14:18', 'type': 'news', 'description': 'New news articlesEngland flooding: More rain due as disruption continues - BBC News', 'error': ''}
+INFO: 2019-11-11 13:14:19,722 127.0.0.1 - - [11/Nov/2019 13:14:19] "GET / HTTP/1.1" 200 -
+DEBUG: 2019-11-11 13:14:20,474 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 13:14:20,550 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 447
+INFO: 2019-11-11 13:14:24,511 {'timestamp': '13:14:24', 'type': 'news', 'description': 'New news articlesEngland flooding: More rain due as disruption continues - BBC News', 'error': ''}
+INFO: 2019-11-11 13:14:30,847 {'timestamp': '13:14:30', 'type': 'news', 'description': 'New news articlesEngland flooding: More rain due as disruption continues - BBC News', 'error': ''}
+INFO: 2019-11-11 13:14:37,183 {'timestamp': '13:14:37', 'type': 'news', 'description': 'New news articlesEngland flooding: More rain due as disruption continues - BBC News', 'error': ''}
+INFO: 2019-11-11 13:14:43,507 {'timestamp': '13:14:43', 'type': 'news', 'description': "New news articlesThe biggest moments from the People's Choice Awards - BBC News", 'error': ''}
+INFO: 2019-11-11 13:14:49,140 {'timestamp': '13:14:49', 'type': 'news', 'description': "New news articlesThe biggest moments from the People's Choice Awards - BBC News", 'error': ''}
+DEBUG: 2019-11-11 13:14:50,565 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 13:14:50,633 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 447
+INFO: 2019-11-11 13:14:54,763 {'timestamp': '13:14:54', 'type': 'news', 'description': "New news articlesThe biggest moments from the People's Choice Awards - BBC News", 'error': ''}
+INFO: 2019-11-11 13:15:00,390 {'timestamp': '13:15:00', 'type': 'news', 'description': "New news articlesThe biggest moments from the People's Choice Awards - BBC News", 'error': ''}
+INFO: 2019-11-11 13:20:27,619 {'timestamp': '13:20:27', 'type': 'news', 'description': 'New news articlesGeneral election: Farage says Brexit party will not stand in 317 Tory seats - live news - The Guardian', 'error': ''}
+INFO: 2019-11-11 13:20:37,116 {'timestamp': '13:20:37', 'type': 'news', 'description': "New news articlesAnt McPartlin and Anne-Marie enjoy double date with Declan Donnelly and Ali ahead of I'm A Celeb - Daily Mail", 'error': ''}
+INFO: 2019-11-11 13:22:11,961 {'timestamp': '13:22:11', 'type': 'news', 'description': 'New news articlesGeneral election: Farage says Brexit party will not stand in 317 Tory seats - live news - The Guardian', 'error': ''}
+INFO: 2019-11-11 13:22:21,451 {'timestamp': '13:22:21', 'type': 'news', 'description': "New news articlesAnt McPartlin and Anne-Marie enjoy double date with Declan Donnelly and Ali ahead of I'm A Celeb - Daily Mail", 'error': ''}
+INFO: 2019-11-11 13:24:22,947 {'timestamp': '13:24:22', 'type': 'weather', 'description': 'Current Weather in Tewkesbury has been updated.', 'error': ''}
+DEBUG: 2019-11-11 13:24:52,843 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 13:24:53,325 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 16083
+INFO: 2019-11-11 13:24:53,348 {'timestamp': '13:24:53', 'type': 'news', 'description': 'New news articlesGeneral election: Farage says Brexit party will not stand in 317 Tory seats - live news - The Guardian', 'error': ''}
+DEBUG: 2019-11-11 13:24:56,376 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 13:24:56,448 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 447
+INFO: 2019-11-11 13:25:02,748 {'timestamp': '13:25:02', 'type': 'news', 'description': "New news articlesAnt McPartlin and Anne-Marie enjoy double date with Declan Donnelly and Ali ahead of I'm A Celeb - Daily Mail", 'error': ''}
+INFO: 2019-11-11 13:25:10,307 {'timestamp': '13:25:10', 'type': 'news', 'description': 'New news articlesEngland flooding: More rain due as disruption continues - BBC News', 'error': ''}
+INFO: 2019-11-11 13:25:16,645 {'timestamp': '13:25:16', 'type': 'news', 'description': "New news articlesThe biggest moments from the People's Choice Awards - BBC News", 'error': ''}
+INFO: 2019-11-11 13:25:22,273 {'timestamp': '13:25:22', 'type': 'news', 'description': 'New news articlesCo-founder of White Helmets found dead days after Russia claimed he was a spy - Sky News', 'error': ''}
+DEBUG: 2019-11-11 13:25:26,466 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 13:25:26,528 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 447
+INFO: 2019-11-11 13:25:43,643 127.0.0.1 - - [11/Nov/2019 13:25:43] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:25:46,536 127.0.0.1 - - [11/Nov/2019 13:25:46] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:25:47,150 127.0.0.1 - - [11/Nov/2019 13:25:47] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 13:35:18,761 {'timestamp': '13:35:18', 'type': 'weather', 'description': 'Current Weather in Tewkesbury has been updated.', 'error': ''}
+INFO: 2019-11-11 13:58:30,389 {'timestamp': '13:58:30', 'type': 'weather', 'description': 'Current Weather in Tewkesbury has been updated.', 'error': ''}
+DEBUG: 2019-11-11 13:59:00,286 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 13:59:00,743 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17017
+INFO: 2019-11-11 13:59:00,759 {'timestamp': '13:59:00', 'type': 'news', 'description': "New news articlesUK growth 'slowest in almost a decade' - BBC News", 'error': ''}
+DEBUG: 2019-11-11 13:59:03,831 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 13:59:03,906 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 454
+INFO: 2019-11-11 13:59:06,290 {'timestamp': '13:59:06', 'type': 'news', 'description': 'New news articlesGeneral election: Farage says Brexit party will not stand in 317 Tory seats - live news - The Guardian', 'error': ''}
+INFO: 2019-11-11 14:07:27,912 {'timestamp': '14:07:27', 'type': 'news', 'description': "New news articlesUK growth 'slowest in almost a decade' - BBC News", 'error': ''}
+INFO: 2019-11-11 14:07:33,548 {'timestamp': '14:07:33', 'type': 'news', 'description': 'New news articlesGeneral election: Farage says Brexit party will not stand in 317 Tory seats - live news - The Guardian', 'error': ''}
+INFO: 2019-11-11 14:40:31,834 {'timestamp': '14:40:31', 'type': 'weather', 'description': 'Current Weather in Tewkesbury has been updated.', 'error': ''}
+INFO: 2019-11-11 14:41:00,025 {'timestamp': '14:41:00', 'type': 'alarm', 'description': 'Alarm scheduled for 2019-11-11 14:41:00 has gone off.', 'error': ''}
+DEBUG: 2019-11-11 14:41:01,703 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 14:41:02,170 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17041
+INFO: 2019-11-11 14:41:02,196 {'timestamp': '14:41:02', 'type': 'news', 'description': 'New news articlesGeneral election 2019: Labour and Tories make Armistice Day vows to forces - BBC News', 'error': ''}
+DEBUG: 2019-11-11 14:41:05,283 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:41:05,367 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 461
+INFO: 2019-11-11 14:41:10,784 {'timestamp': '14:41:10', 'type': 'news', 'description': "New news articlesUK growth 'slowest in almost a decade' - BBC News", 'error': ''}
+INFO: 2019-11-11 14:41:16,327 {'timestamp': '14:41:16', 'type': 'news', 'description': 'New news articlesJames Le Mesurier: White Helmets backer discovered dead in Turkey - BBC News', 'error': ''}
+INFO: 2019-11-11 14:41:23,025 {'timestamp': '14:41:23', 'type': 'news', 'description': 'New news articlesTimeline for Falcon 9 launch of Starlink satellites - Spaceflight Now', 'error': ''}
+INFO: 2019-11-11 14:41:29,179 {'timestamp': '14:41:29', 'type': 'news', 'description': "New news articlesI'm A Celeb: Jacqueline Jossa and James Haskell join Caitlyn Jenner - Daily Mail", 'error': ''}
+INFO: 2019-11-11 14:41:33,513 127.0.0.1 - - [11/Nov/2019 14:41:33] "GET /notification-clear?clear_notifcations= HTTP/1.1" 302 -
+INFO: 2019-11-11 14:41:33,536 127.0.0.1 - - [11/Nov/2019 14:41:33] "GET / HTTP/1.1" 200 -
+DEBUG: 2019-11-11 14:41:35,390 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:41:35,453 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 461
+INFO: 2019-11-11 14:41:35,585 127.0.0.1 - - [11/Nov/2019 14:41:35] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:41:36,012 127.0.0.1 - - [11/Nov/2019 14:41:36] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:41:36,037 127.0.0.1 - - [11/Nov/2019 14:41:36] "GET /None HTTP/1.1" 404 -
+INFO: 2019-11-11 14:41:36,699 127.0.0.1 - - [11/Nov/2019 14:41:36] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:41:36,720 127.0.0.1 - - [11/Nov/2019 14:41:36] "GET /None HTTP/1.1" 404 -
+INFO: 2019-11-11 14:41:37,664 127.0.0.1 - - [11/Nov/2019 14:41:37] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:41:37,686 127.0.0.1 - - [11/Nov/2019 14:41:37] "GET /None HTTP/1.1" 404 -
+DEBUG: 2019-11-11 14:42:05,470 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:42:05,541 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 461
+DEBUG: 2019-11-11 14:42:35,556 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:42:35,626 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 461
+DEBUG: 2019-11-11 14:42:35,800 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 14:42:36,236 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17041
+INFO: 2019-11-11 14:44:00,009 {'timestamp': '14:44:00', 'type': 'alarm', 'description': 'Alarm scheduled for 2019-11-11 14:44:00 has gone off.', 'error': ''}
+DEBUG: 2019-11-11 14:44:23,143 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:44:23,231 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 461
+DEBUG: 2019-11-11 14:44:53,248 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:44:53,324 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 461
+DEBUG: 2019-11-11 14:44:53,419 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 14:44:53,853 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17041
+DEBUG: 2019-11-11 14:45:23,343 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:45:23,416 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 461
+DEBUG: 2019-11-11 14:45:53,433 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:45:53,508 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 461
+DEBUG: 2019-11-11 14:45:53,892 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 14:45:54,325 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17041
+DEBUG: 2019-11-11 14:46:23,525 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:46:23,596 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 461
+INFO: 2019-11-11 14:54:48,982 {'timestamp': '14:54:48', 'type': 'weather', 'description': 'Current Weather in Tewkesbury has been updated.', 'error': ''}
+INFO: 2019-11-11 14:54:52,480 127.0.0.1 - - [11/Nov/2019 14:54:52] "GET /weather-change?old_location=Tewkesbury&new_location=tewkesbury HTTP/1.1" 302 -
+INFO: 2019-11-11 14:54:52,500 127.0.0.1 - - [11/Nov/2019 14:54:52] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:54:52,526 127.0.0.1 - - [11/Nov/2019 14:54:52] "GET /None HTTP/1.1" 404 -
+DEBUG: 2019-11-11 14:54:56,794 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:54:56,875 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 445
+INFO: 2019-11-11 14:54:56,957 127.0.0.1 - - [11/Nov/2019 14:54:56] "GET /weather-change?old_location=Tewkesbury&new_location=Exeter HTTP/1.1" 302 -
+DEBUG: 2019-11-11 14:54:56,963 Starting new HTTPS connection (1): api.openweathermap.org:443
+INFO: 2019-11-11 14:54:56,971 127.0.0.1 - - [11/Nov/2019 14:54:56] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:54:57,002 127.0.0.1 - - [11/Nov/2019 14:54:57] "GET /None HTTP/1.1" 404 -
+DEBUG: 2019-11-11 14:54:57,041 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Tewkesbury%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 461
+INFO: 2019-11-11 14:55:04,282 127.0.0.1 - - [11/Nov/2019 14:55:04] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:55:04,302 127.0.0.1 - - [11/Nov/2019 14:55:04] "GET /None HTTP/1.1" 404 -
+INFO: 2019-11-11 14:55:05,249 127.0.0.1 - - [11/Nov/2019 14:55:05] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:55:05,268 127.0.0.1 - - [11/Nov/2019 14:55:05] "GET /None HTTP/1.1" 404 -
+DEBUG: 2019-11-11 14:55:08,894 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 14:55:08,965 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 445
+INFO: 2019-11-11 14:55:09,051 127.0.0.1 - - [11/Nov/2019 14:55:09] "GET /weather-change?old_location=Tewkesbury&new_location=Exeter HTTP/1.1" 302 -
+INFO: 2019-11-11 14:55:09,059 127.0.0.1 - - [11/Nov/2019 14:55:09] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:55:09,085 127.0.0.1 - - [11/Nov/2019 14:55:09] "GET /None HTTP/1.1" 404 -
+INFO: 2019-11-11 14:55:10,746 127.0.0.1 - - [11/Nov/2019 14:55:10] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:55:10,771 127.0.0.1 - - [11/Nov/2019 14:55:10] "GET /None HTTP/1.1" 404 -
+INFO: 2019-11-11 14:55:13,352 127.0.0.1 - - [11/Nov/2019 14:55:13] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:55:13,371 127.0.0.1 - - [11/Nov/2019 14:55:13] "GET /None HTTP/1.1" 404 -
+INFO: 2019-11-11 14:55:14,396 127.0.0.1 - - [11/Nov/2019 14:55:14] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:55:14,427 127.0.0.1 - - [11/Nov/2019 14:55:14] "GET /None HTTP/1.1" 404 -
+INFO: 2019-11-11 14:55:15,920 127.0.0.1 - - [11/Nov/2019 14:55:15] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 14:55:15,939 127.0.0.1 - - [11/Nov/2019 14:55:15] "GET /None HTTP/1.1" 404 -
+INFO: 2019-11-11 19:13:42,193 {'timestamp': '19:13:42', 'type': 'weather', 'description': 'Current Weather in Exeter has been updated.', 'error': ''}
+INFO: 2019-11-11 19:13:45,463 127.0.0.1 - - [11/Nov/2019 19:13:45] "GET /weather-change?old_location=Exeter&new_location= HTTP/1.1" 302 -
+INFO: 2019-11-11 19:13:45,483 127.0.0.1 - - [11/Nov/2019 19:13:45] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 19:13:45,509 127.0.0.1 - - [11/Nov/2019 19:13:45] "GET /None HTTP/1.1" 404 -
+DEBUG: 2019-11-11 19:13:47,718 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:13:47,786 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+INFO: 2019-11-11 19:13:47,793 127.0.0.1 - - [11/Nov/2019 19:13:47] "GET /weather-change?old_location=Exeter&new_location= HTTP/1.1" 302 -
+INFO: 2019-11-11 19:13:47,800 127.0.0.1 - - [11/Nov/2019 19:13:47] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 19:13:47,824 127.0.0.1 - - [11/Nov/2019 19:13:47] "GET /None HTTP/1.1" 404 -
+DEBUG: 2019-11-11 19:13:49,886 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:13:49,949 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+INFO: 2019-11-11 19:13:49,957 127.0.0.1 - - [11/Nov/2019 19:13:49] "GET /weather-change?old_location=Exeter&new_location= HTTP/1.1" 302 -
+INFO: 2019-11-11 19:13:49,967 127.0.0.1 - - [11/Nov/2019 19:13:49] "GET / HTTP/1.1" 200 -
+INFO: 2019-11-11 19:13:49,991 127.0.0.1 - - [11/Nov/2019 19:13:49] "GET /None HTTP/1.1" 404 -
+DEBUG: 2019-11-11 19:14:02,720 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:14:02,794 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:14:15,471 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:14:15,539 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:14:17,802 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:14:17,866 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:14:19,966 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:14:20,041 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:14:32,730 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 19:14:32,812 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:14:32,888 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:14:33,187 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17240
+INFO: 2019-11-11 19:14:33,192 {'timestamp': '19:14:33', 'type': 'news', 'description': 'New news articlesDrayton Manor death: Jurors find Evha Jannath died accidentally - BBC News', 'error': ''}
+INFO: 2019-11-11 19:14:39,936 {'timestamp': '19:14:39', 'type': 'news', 'description': "New news articlesUnai Emery 'right man' for Arsenal, say club's hierarchy - Sky Sports", 'error': ''}
+DEBUG: 2019-11-11 19:14:45,555 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:14:45,632 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+INFO: 2019-11-11 19:14:46,272 {'timestamp': '19:14:46', 'type': 'news', 'description': 'New news articlesWhite Helmets co-founder discovered dead in Turkey - BBC News', 'error': ''}
+DEBUG: 2019-11-11 19:14:47,886 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:14:47,954 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:14:50,061 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:14:50,131 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+INFO: 2019-11-11 19:14:52,046 {'timestamp': '19:14:52', 'type': 'news', 'description': 'New news articlesATP Finals: Stefanos Tsitsipas beats Daniil Medvedev in London opener - BBC Sport', 'error': ''}
+INFO: 2019-11-11 19:14:59,811 {'timestamp': '19:14:59', 'type': 'news', 'description': 'New news articlesNadal, Djokovic & Federer on rivalry and friendship on ATP tennis tour - BBC News', 'error': ''}
+DEBUG: 2019-11-11 19:15:02,904 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:15:03,168 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+INFO: 2019-11-11 19:15:09,955 127.0.0.1 - - [11/Nov/2019 19:15:09] "GET / HTTP/1.1" 200 -
+DEBUG: 2019-11-11 19:15:15,652 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:15:15,727 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:15:17,971 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:15:18,047 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:15:20,148 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:15:20,314 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:15:33,185 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:15:33,261 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:15:45,741 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:15:45,811 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:15:48,068 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:15:48,144 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:15:50,334 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:15:50,402 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:16:03,280 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:16:03,357 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+INFO: 2019-11-11 19:16:04,115 127.0.0.1 - - [11/Nov/2019 19:16:04] "GET /add-alarm?alarm_time=19%3A17&label=Wake+up HTTP/1.1" 302 -
+INFO: 2019-11-11 19:16:04,134 127.0.0.1 - - [11/Nov/2019 19:16:04] "GET / HTTP/1.1" 200 -
+DEBUG: 2019-11-11 19:16:07,555 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 19:16:07,990 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17240
+DEBUG: 2019-11-11 19:16:15,829 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:16:15,889 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:16:18,161 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:16:18,240 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:16:20,421 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:16:20,494 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:16:33,377 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:16:33,449 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:16:45,900 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:16:45,970 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:16:48,260 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:16:48,330 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:16:50,509 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:16:50,571 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+INFO: 2019-11-11 19:17:00,006 {'timestamp': '19:17:00', 'type': 'alarm', 'description': 'Alarm scheduled for 2019-11-11 19:17:00 has gone off.', 'error': ''}
+DEBUG: 2019-11-11 19:17:03,468 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:17:03,543 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:17:08,021 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 19:17:08,455 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17240
+DEBUG: 2019-11-11 19:17:15,985 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:17:16,057 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:17:18,344 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:17:18,406 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:17:20,583 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:17:20,646 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:17:33,563 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:17:33,637 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+INFO: 2019-11-11 19:17:40,841 127.0.0.1 - - [11/Nov/2019 19:17:40] "GET /add-alarm?alarm_time=08%3A05&day_0=Monday&day_2=Wednesday&day_3=Thursday&label=Wake+up HTTP/1.1" 302 -
+INFO: 2019-11-11 19:17:40,872 127.0.0.1 - - [11/Nov/2019 19:17:40] "GET / HTTP/1.1" 200 -
+DEBUG: 2019-11-11 19:17:46,077 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:17:46,155 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+INFO: 2019-11-11 19:17:46,324 127.0.0.1 - - [11/Nov/2019 19:17:46] "GET /delete-alarm?alarm_time=19%3A17 HTTP/1.1" 302 -
+INFO: 2019-11-11 19:17:46,332 127.0.0.1 - - [11/Nov/2019 19:17:46] "GET / HTTP/1.1" 200 -
+DEBUG: 2019-11-11 19:17:48,422 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:17:48,501 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:17:50,657 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:17:50,729 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:18:03,653 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:18:03,725 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:18:08,483 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 19:18:08,916 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17240
+INFO: 2019-11-11 19:18:09,489 127.0.0.1 - - [11/Nov/2019 19:18:09] "GET /add-alarm?alarm_time=08%3A45&day_1=Tuesday&day_4=Friday&day_5=Saturday&day_6=Sunday&label=Wake+up HTTP/1.1" 302 -
+INFO: 2019-11-11 19:18:09,505 127.0.0.1 - - [11/Nov/2019 19:18:09] "GET / HTTP/1.1" 200 -
+DEBUG: 2019-11-11 19:18:16,174 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:18:16,245 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:18:18,517 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:18:18,594 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:18:20,750 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:18:20,820 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:18:33,744 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:18:33,814 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:18:46,257 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:18:46,330 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:18:48,614 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:18:48,687 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+INFO: 2019-11-11 19:18:49,292 127.0.0.1 - - [11/Nov/2019 19:18:49] "GET /add-alarm?alarm_time=13%3A00&day_2=Wednesday&day_5=Saturday&label=Shopping HTTP/1.1" 302 -
+INFO: 2019-11-11 19:18:49,301 127.0.0.1 - - [11/Nov/2019 19:18:49] "GET / HTTP/1.1" 200 -
+DEBUG: 2019-11-11 19:18:50,840 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:18:50,914 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:19:03,834 Starting new HTTPS connection (1): api.openweathermap.org:443
+INFO: 2019-11-11 19:19:03,864 127.0.0.1 - - [11/Nov/2019 19:19:03] "GET / HTTP/1.1" 200 -
+DEBUG: 2019-11-11 19:19:03,900 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:19:08,940 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 19:19:09,370 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17240
+DEBUG: 2019-11-11 19:19:16,345 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:19:16,410 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:19:18,708 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:19:18,779 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:19:20,928 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:19:20,992 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:19:33,912 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:19:33,975 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:19:46,426 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:19:46,497 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:19:48,792 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:19:48,859 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:19:51,005 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:19:51,068 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:20:03,995 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:20:04,072 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:20:09,395 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 19:20:09,860 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17240
+DEBUG: 2019-11-11 19:20:16,512 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:20:16,593 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:20:18,879 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:20:18,957 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:20:21,088 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:20:21,161 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:20:34,092 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:20:34,190 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:20:46,612 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:20:46,684 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:20:48,976 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:20:49,047 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:20:51,176 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:20:51,247 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:21:04,206 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:21:04,279 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:21:09,891 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 19:21:10,308 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17240
+DEBUG: 2019-11-11 19:21:16,703 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:21:16,785 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:21:19,063 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:21:19,127 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:21:21,267 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:21:21,343 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:21:34,299 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:21:34,376 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:21:46,804 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:21:46,866 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:21:49,150 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:21:49,215 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:21:51,359 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:21:51,429 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:22:04,391 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-11 19:22:04,454 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 467
+DEBUG: 2019-11-11 19:22:10,344 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-11 19:22:10,782 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17240
+INFO: 2019-11-17 12:52:32,544 {'timestamp': '12:52:32', 'type': 'weather', 'description': 'Current Weather in Exeter has been updated.', 'error': ''}
+ERROR: 2019-11-17 12:52:38,193 Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Will Coates\source\repos\Smart Alarm Clock\Smart Alarm Clock\smart_alarm_clock.py", line 30, in home
+    news = update_news()
+  File "C:\Users\Will Coates\source\repos\Smart Alarm Clock\Smart Alarm Clock\news.py", line 32, in update_news
+    return news
+NameError: name 'news' is not defined
+INFO: 2019-11-17 12:52:38,196 127.0.0.1 - - [17/Nov/2019 12:52:38] "GET / HTTP/1.1" 500 -
+DEBUG: 2019-11-17 12:53:02,435 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2019-11-17 12:53:02,924 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=d9b36d5b441a4d0fbfbbff29b9ea5bec HTTP/1.1" 200 17934
+INFO: 2019-11-17 12:53:02,940 {'timestamp': '12:53:02', 'type': 'news', 'description': 'New news articlesBoris Johnson news – live: Jennifer Arcuri accuses PM of treating her like ‘one-night stand’ as IFS warns Tory spending plans will mean tax rises - The Independent', 'error': ''}
+DEBUG: 2019-11-17 12:53:06,248 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-17 12:53:06,317 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 434
+INFO: 2019-11-17 12:53:14,531 {'timestamp': '12:53:14', 'type': 'news', 'description': 'New news articlesSri Lanka election: Ex-defence chief Rajapaksa wins presidency - BBC News', 'error': ''}
+INFO: 2019-11-17 12:53:21,679 {'timestamp': '12:53:21', 'type': 'news', 'description': 'New news articlesGeneral election: Corbyn deflects questions on free movement – live news - The Guardian', 'error': ''}
+INFO: 2019-11-17 12:53:28,782 {'timestamp': '12:53:28', 'type': 'news', 'description': "New news articlesPhotographer of swinging 60s Terry O'Neill dies aged 81 - The Guardian", 'error': ''}
+ERROR: 2019-11-17 12:53:34,798 Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Will Coates\source\repos\Smart Alarm Clock\Smart Alarm Clock\smart_alarm_clock.py", line 30, in home
+    news = update_news()
+  File "C:\Users\Will Coates\source\repos\Smart Alarm Clock\Smart Alarm Clock\news.py", line 32, in update_news
+    log_warning(error)
+NameError: name 'news' is not defined
+INFO: 2019-11-17 12:53:34,807 127.0.0.1 - - [17/Nov/2019 12:53:34] "GET / HTTP/1.1" 500 -
+INFO: 2019-11-17 12:53:34,875 {'timestamp': '12:53:34', 'type': 'news', 'description': "New news articlesStrictly's Tess Daly's silver dress 'annoys and distracts' viewers with its falling shoulder strap - Daily Mail", 'error': ''}
+ERROR: 2019-11-17 12:53:35,769 Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Will Coates\source\repos\Smart Alarm Clock\Smart Alarm Clock\smart_alarm_clock.py", line 30, in home
+    news = update_news()
+  File "C:\Users\Will Coates\source\repos\Smart Alarm Clock\Smart Alarm Clock\news.py", line 32, in update_news
+    log_warning(error)
+NameError: name 'news' is not defined
+INFO: 2019-11-17 12:53:35,772 127.0.0.1 - - [17/Nov/2019 12:53:35] "GET / HTTP/1.1" 500 -
+DEBUG: 2019-11-17 12:53:36,331 Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG: 2019-11-17 12:53:36,405 https://api.openweathermap.org:443 "GET /data/2.5/weather?q=Exeter%20%20%20%20%20&appid=538bb40abf4d6e37d9b8ce727f5be131&units=metric HTTP/1.1" 200 434
+ERROR: 2019-11-17 12:53:36,480 Exception on / [GET]
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Users\Will Coates\source\repos\Smart Alarm Clock\Smart Alarm Clock\smart_alarm_clock.py", line 30, in home
+    news = update_news()
+  File "C:\Users\Will Coates\source\repos\Smart Alarm Clock\Smart Alarm Clock\news.py", line 32, in update_news
+    log_warning(error)
+NameError: name 'news' is not defined
+INFO: 2019-11-17 12:53:36,483 127.0.0.1 - - [17/Nov/2019 12:53:36] "GET / HTTP/1.1" 500 -
+INFO: 2019-11-17 13:39:25,797 {'timestamp': '13:39:25', 'type': 'weather', 'description': 'Current Weather in Exeter has been updated.', 'error': ''}
+INFO: 2020-01-09 11:40:58,185 {'timestamp': '11:40:58', 'type': 'weather', 'description': 'Current Weather in Exeter has been updated.', 'error': ''}

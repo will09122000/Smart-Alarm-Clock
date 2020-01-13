@@ -1,0 +1,104 @@
+[
+  {
+    "timestamp": "14:44:00",
+    "type": "Alarm",
+    "title": " Alarm scheduled for 2019-11-11 14:44:00 has gone off.",
+    "description": ""
+  },
+  {
+    "timestamp": "14:54:48",
+    "type": "Weather",
+    "title": "Current Weather in Tewkesbury has been updated.",
+    "description": ""
+  },
+  {
+    "timestamp": "19:13:42",
+    "type": "Weather",
+    "title": "Current Weather in Exeter has been updated.",
+    "description": ""
+  },
+  {
+    "timestamp": "19:14:33",
+    "type": "News",
+    "title": "Drayton Manor death: Jurors find Evha Jannath died accidentally - BBC News",
+    "description": ""
+  },
+  {
+    "timestamp": "19:14:39",
+    "type": "News",
+    "title": "Unai Emery 'right man' for Arsenal, say club's hierarchy - Sky Sports",
+    "description": ""
+  },
+  {
+    "timestamp": "19:14:46",
+    "type": "News",
+    "title": "White Helmets co-founder discovered dead in Turkey - BBC News",
+    "description": ""
+  },
+  {
+    "timestamp": "19:14:52",
+    "type": "News",
+    "title": "ATP Finals: Stefanos Tsitsipas beats Daniil Medvedev in London opener - BBC Sport",
+    "description": ""
+  },
+  {
+    "timestamp": "19:14:59",
+    "type": "News",
+    "title": "Nadal, Djokovic & Federer on rivalry and friendship on ATP tennis tour - BBC News",
+    "description": ""
+  },
+  {
+    "timestamp": "19:17:00",
+    "type": "Alarm",
+    "title": "Wake up Alarm scheduled for 2019-11-11 19:17:00 has gone off.",
+    "description": ""
+  },
+  {
+    "timestamp": "12:52:32",
+    "type": "Weather",
+    "title": "Current Weather in Exeter has been updated.",
+    "description": ""
+  },
+  {
+    "timestamp": "12:53:02",
+    "type": "News",
+    "title": "Boris Johnson news \u2013 live: Jennifer Arcuri accuses PM of treating her like \u2018one-night stand\u2019 as IFS warns Tory spending plans will mean tax rises - The Independent",
+    "description": ""
+  },
+  {
+    "timestamp": "12:53:14",
+    "type": "News",
+    "title": "Sri Lanka election: Ex-defence chief Rajapaksa wins presidency - BBC News",
+    "description": ""
+  },
+  {
+    "timestamp": "12:53:21",
+    "type": "News",
+    "title": "General election: Corbyn deflects questions on free movement \u2013 live news - The Guardian",
+    "description": ""
+  },
+  {
+    "timestamp": "12:53:28",
+    "type": "News",
+    "title": "Photographer of swinging 60s Terry O'Neill dies aged 81 - The Guardian",
+    "description": ""
+  },
+  {
+    "timestamp": "12:53:34",
+    "type": "News",
+    "title": "Strictly's Tess Daly's silver dress 'annoys and distracts' viewers with its falling shoulder strap - Daily Mail",
+    "description": ""
+  },
+  {
+    "timestamp": "13:39:25",
+    "type": "Weather",
+    "title": "Current Weather in Exeter has been updated.",
+    "description": ""
+  },
+  {
+    "timestamp": "11:40:58",
+    "type": "Weather",
+    "title": "Current Weather in Exeter has been updated.",
+    "description": ""
+  }
+]
