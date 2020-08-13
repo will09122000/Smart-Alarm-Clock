@@ -1,6 +1,6 @@
 """
 This module is responsible for all news functionality. It uses newsapi
-to fetch the latest news stories every 60 seconds
+to fetch the latest news stories every 60 seconds.
 """
 
 import json
