@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<head>
+    <title>Smart Alarm Clock</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <!--Refreshes the page ever five minutes to keep content such as notifications,
+        weather and news visually up to.-->
+    <meta http-equiv="refresh" content="300">
+</head>
+
+<h1 style="font-size:200%;">Smart Alarm Clock</h1>
+
+<body>
+    <div id="contentBox" style="margin:0px auto; width:100%">
+        <!--The first column displays all the user's alarms, enabling them to edit,
+            delete and create new alarms.-->
+        <div id="column1" style="float:left; margin:0; width:33%;">
+            <h2>Alarms</h2>
+            <table>
+                <!--A for loop that iterates through each alarm.-->
+                {% for alarm in alarm_list %}
+                <tr>
+                    <td>
+                        <!--Displays the time of each alarm and its label.-->
+                        {{alarm['alarm_time']}}, {{alarm['label']}} <br />
+                        Repeats:
+                        <!--Displays the days of the week that the alarm repeats.-->
+                        {% if alarm['day_0'] %} {{alarm['day_0']|default}} {% endif %}
+                        {% if alarm['day_1'] %} {{alarm['day_1']|default}} {% endif %}
+                        {% if alarm['day_2'] %} {{alarm['day_2']|default}} {% endif %}
+                        {% if alarm['day_3'] %} {{alarm['day_3']|default}} {% endif %}
+                        {% if alarm['day_4'] %} {{alarm['day_4']|default}} {% endif %}
+                        {% if alarm['day_5'] %} {{alarm['day_5']|default}} {% endif %}
+                        {% if alarm['day_6'] %} {{alarm['day_6']|default}} {% endif %}
+                    </td>
+                    <td>
+                        <!--A form that enables the user to update the time of an
+                            alarm.-->
+                        <form method="get" action="./update-alarm">
+                            <input type="hidden" value="{{alarm['alarm_time']}}"
+                                   name="oldtime">
+                            <input type="time" name="newtime">
+                            <input type="submit" value="Update">
+                        </form>
+                    </td>
+                    <td>
+                        <!--A form that enables the user to delete an alarm.-->
+                        <form method="get" action="./delete-alarm">
+                            <input type="hidden" value="{{alarm['alarm_time']}}"
+                                   name="alarm_time">
+                            <input type="submit" value="Delete">
+                        </form>
+                    </td>
+                </tr>
+                {% endfor %}
+            </table>
+
+            <h2>New Alarm</h2>
+            <!--A form for adding a new alarm.-->
+            <form method="get" action="./add-alarm">
+                <h3>Time:</h3>
+                <input type="time" name="alarm_time"> <br />
+                <h3>Repeat Alarm:</h3>
+                Check no boxes if you would like the time above to occur in the next
+                24hrs. <br />
+                <input type="checkbox" name="day_0" value="Monday" /> Monday <br />
+                <input type="checkbox" name="day_1" value="Tuesday" /> Tuesday <br />
+                <input type="checkbox" name="day_2" value="Wednesday" /> Wednesday <br />
+                <input type="checkbox" name="day_3" value="Thursday" /> Thursday <br />
+                <input type="checkbox" name="day_4" value="Friday" /> Friday <br />
+                <input type="checkbox" name="day_5" value="Saturday" /> Saturday <br />
+                <input type="checkbox" name="day_6" value="Sunday" /> Sunday <br />
+                <h3>Alarm Label</h3>
+                <input type="text" name="label" placeholder="Feed the Dog" />
+                <br />
+                <input type="submit" value="Add">
+            </form>
+        </div>
+        <!--The second column displays all notifications in a list ordered by time of
+            each notification. The user can filter notifications and clear them.-->
+        <div id="column2" style="float:left; margin:0; width:33%;">
+            <h2>Notifications</h2>
+            <form method="get" action="./notification-clear">
+                <button name="clear_notifcations" type="submit">Clear</button>
+            </form>
+            <br />
+            <form method="get" action="./notification-filter">
+                <input type="checkbox" name="alarm" value="True" /> Alarms <br />
+                <input type="checkbox" name="weather" value="True" /> Weather <br />
+                <input type="checkbox" name="news" value="True" /> News <br />
+                <input type="submit" value="Filter">
+            </form>
+            <br /> <br />
+            <!--A for loop that iterates through each notification.-->
+            {% for notification in notification_list %}
+            {{notification['type']}} - {{notification['timestamp']}} <br />
+            {{notification['title']}} <br />
+            {{notification['description']}}
+            <br /> <br />
+            {% endfor %}
+        </div>
+        <!--The third column displays the current weather from openweathermap which
+            also enables the user to change the location. This column also displays
+            the top stories including a picture and a link to the full news
+            article.-->
+        <div id="column3" style="float:left; margin:0; width:33%;">
+            <h2>Current Weather - {{weather_now['name']}},
+            {{weather_now['sys']['country']}}</h2>
+            <!--Form for changing the location of the current weather.-->
+            <form method="get" action="./weather-change">
+                <input type="hidden" value="{{weather_now['name']}}"
+                       name="old_location">
+                <input type="text" placeholder="Town or City" name="new_location">
+                <input type="submit" value="Enter">
+            </form> <br />
+            <b>{{weather_now['weather'][0]['description']}}</b>
+            <img src="http://openweathermap.org/img/w/{{weather_now['weather'][0]['icon']}}.png"
+                 style="height:20%; width:20%;"> <br /> <br />
+            Temperature: {{weather_now['main']['temp']}} celcius, ranging from
+            {{weather_now['main']['temp_min']}} to
+            {{weather_now['main']['temp_max']}}.<br />
+            Pressure: {{weather_now['main']['pressure']}} hPa <br />
+            Humidity: {{weather_now['main']['humidity']}}% <br />
+            Wind Speed: {{weather_now['wind']['speed']}} m/s <br />
+            Cloud Coverage: {{weather_now['clouds']['all']}}% <br />
+            <br />
+            <h2>News</h2>
+            <!--For loop to display the top five stores from newsapi.-->
+            {% for i in range(5): %}
+            <h3>{{news['articles'][i]['title']}}</h3>
+            <img src={{news['articles'][i]['urlToImage']}}
+                 style="height:50%; width:50%;"> <br />
+            {{news['articles'][i]['description']}} <br />
+            <a href={{news['articles'][i]['url']}}>Read more</a> <br />
+            {{news['articles'][i]['author']}}, {{news['articles'][i]['source']['name']}}
+            <br />
+            <br />
+            {% endfor %}
+        </div>
+    </div>
+</body>

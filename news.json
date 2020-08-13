@@ -4,68 +4,16 @@
   "articles": [
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": null,
-      "title": "Boris Johnson news \u2013 live: Jennifer Arcuri accuses PM of treating her like \u2018one-night stand\u2019 as IFS warns Tory spending plans will mean tax rises - The Independent",
-      "description": null,
-      "url": "https://news.google.com/__i/rss/rd/articles/CBMijgFodHRwczovL3d3dy5pbmRlcGVuZGVudC5jby51ay9uZXdzL3VrL3BvbGl0aWNzL2JvcmlzLWpvaG5zb24tbmV3cy1saXZlLXRvZGF5LWdlbmVyYWwtZWxlY3Rpb24tYnJleGl0LWxhdGVzdC1sYWJvdXItY29uc2VydmF0aXZlcy1hOTIwNjAwNi5odG1s0gGSAWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3MvdWsvcG9saXRpY3MvYm9yaXMtam9obnNvbi1uZXdzLWxpdmUtdG9kYXktZ2VuZXJhbC1lbGVjdGlvbi1icmV4aXQtbGF0ZXN0LWxhYm91ci1jb25zZXJ2YXRpdmVzLWE5MjA2MDA2Lmh0bWw_YW1w?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2019-11-17T11:17:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Bbc.com"
+        "name": "The Guardian"
       },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Sri Lanka election: Ex-defence chief Rajapaksa wins presidency - BBC News",
-      "description": "Gotabaya Rajapaksa is declared the winner in a poll that has split the country along ethnic lines.",
-      "url": "https://www.bbc.com/news/world-asia-50449677",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11545/production/_109718907_058033903.jpg",
-      "publishedAt": "2019-11-17T11:07:43Z",
-      "content": "Image copyrightReutersImage caption\r\n Gotabaya Rajapaksa is a controversial figure in Sri Lankan politics\r\nSri Lanka's former wartime defence chief Gotabaya Rajapaksa has won a presidential election that has split the country along ethnic lines.\r\nOfficial res\u2026 [+4546 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theguardian.com"
-      },
-      "author": "Frances Perraudin",
-      "title": "General election: Corbyn deflects questions on free movement \u2013 live news - The Guardian",
-      "description": "The Labour leader hits the airwaves, but Prince Andrew\u2019s TV bombshell may dominate the day",
-      "url": "https://www.theguardian.com/politics/live/2019/nov/17/general-election-corbyn-to-face-marr-after-nhs-protection-pledge-live-news",
-      "urlToImage": "https://i.guim.co.uk/img/media/fcea9add3e61776dc2240f888c1c7b493f02f918/130_18_1024_614/master/1024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0e22137b51a020201de20c9adc4ecb4e",
-      "publishedAt": "2019-11-17T11:04:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theguardian.com"
-      },
-      "author": "Guardian staff",
-      "title": "Photographer of swinging 60s Terry O'Neill dies aged 81 - The Guardian",
-      "description": "Man known for his pictures of Beatles, Stones, Bardot and Sean Connery had prostate cancer",
-      "url": "https://www.theguardian.com/artanddesign/2019/nov/17/photographer-of-swinging-60s-terry-oneill-dies-aged-81",
-      "urlToImage": "https://i.guim.co.uk/img/media/e165690a0b4549e477ddd4b4df7554b9f4571f79/0_163_4246_2549/master/4246.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bb06fa557a557bad155803dccea95aae",
-      "publishedAt": "2019-11-17T10:33:00Z",
-      "content": "Terry ONeill, the photographer who rose to fame in the 1960s as a chronicler of the celebrities and public figures who defined the era, has died at the age of 81.\r\nONeill, who was awarded a CBE last month for services to photography, died at home on Saturday \u2026 [+1598 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.co.uk"
-      },
-      "author": "By Connie Rusk For Mailonline",
-      "title": "Strictly's Tess Daly's silver dress 'annoys and distracts' viewers with its falling shoulder strap - Daily Mail",
-      "description": "Tess Daly's outfit sent tongues wagging on Strictly Come Dancing in Blackpool on Saturday night due to its falling shoulder strap",
-      "url": "https://www.dailymail.co.uk/tvshowbiz/article-7694613/Strictlys-Tess-Dalys-silver-dress-annoys-distracts-viewers-falling-shoulder-strap.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2019/11/17/10/21115258-0-image-a-33_1573986238766.jpg",
-      "publishedAt": "2019-11-17T10:32:00Z",
-      "content": "Tess Daly's outfit sent tongues wagging on Strictly Come Dancing in Blackpool on Saturday night.\u00a0\u00a0\r\nThe presenter, 50, had decided to wear a glamorous metallic silver gown with thigh-high slit - but viewers were left distracted by its falling shoulder strap.\u00a0\u2026 [+4064 chars]"
+      "author": "Graeme Wearden",
+      "title": "US initial jobless claims fall below one million, first time since March - business live - The Guardian",
+      "description": "Rolling coverage of the latest economic and financial news, as latest weekly jobless figures beat forecasts",
+      "url": "https://www.theguardian.com/business/live/2020/aug/13/us-eu-tariffs-airbus-wine-whisky-row-stock-markets-high-us-jobless-business-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/7dfa136b35d537ae670a7dab04176f380218dc3c/0_80_5416_3250/master/5416.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=4746f09e77961ada3370265662676652",
+      "publishedAt": "2020-08-13T12:36:00Z",
+      "content": "In the week ending August 8, the advance figure for seasonally adjusted initial claims was 963,000, a decrease of 228,000 from the previous weeks revised level. \r\nThe previous weeks level was revised\u2026 [+577 chars]"
     },
     {
       "source": {
@@ -73,194 +21,246 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Colin Kaepernick does not attend NFL private workout - BBC News",
-      "description": "Colin Kaepernick does not attend an NFL-arranged private workout, holding his own session at a high school.",
-      "url": "https://www.bbc.co.uk/sport/american-football/50448708",
-      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/6E6F/production/_109717282_colink_getty.jpg",
-      "publishedAt": "2019-11-17T09:57:06Z",
-      "content": "Colin Kaepernick visits with fans following his NFL workout held at Charles R. Drew High School\r\nUnsigned Colin Kaepernick chose not to attend an NFL-arranged private workout, instead holding his own session at a high school to allow media to attend.\r\nHe said\u2026 [+3124 chars]"
+      "title": "FA Cup replays scrapped for 2020-21 season and Carabao Cup semi-finals reduced to one leg - BBC Sport",
+      "description": "There will be no FA Cup replays during the 2020-21 season, while the EFL Cup semi-finals will be reduced to one leg.",
+      "url": "https://www.bbc.co.uk/sport/football/53765807",
+      "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/17658/production/_113923859_facupgetty.jpg",
+      "publishedAt": "2020-08-13T11:37:30Z",
+      "content": "Arsenal beat Chelsea in the final to win the 2019-20 FA Cup\r\nThere will be no FA Cup replays during the 2020-21 season to \"ease pressure\" on the football calendar.\r\nThe competition will start with th\u2026 [+1167 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Dailymail.co.uk"
+        "name": "Lancashire Telegraph"
       },
-      "author": "By James Gant For Mailonline",
-      "title": "Piers Morgan brands Prince Andrew 'insane' for agreeing to disastrous TV interview - Daily Mail",
-      "description": "The Good Morning Britain presenter (pictured) praised Newsnight interrogator Emily Maitlis's 'brilliant forensic dissection', but questioned why the Duke of York agreed to the sit down.",
-      "url": "https://www.dailymail.co.uk/news/article-7694523/Piers-Morgan-brands-Prince-Andrew-insane-agreeing-disastrous-TV-interview.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2019/11/17/09/21114156-0-image-a-51_1573983733035.jpg",
-      "publishedAt": "2019-11-17T09:29:00Z",
-      "content": "The Good Morning Britain presenter (pictured) questioned why the Duke of York agreed to the sit down\r\nPiers Morgan has led a fierce online backlash against\u00a0Prince Andrew as he branded the Royal's car crash interview last night as\u00a0'desperate toe-curdling bulls\u2026 [+35130 chars]"
+      "author": "Amy Farnworth",
+      "title": "Lindsay Birbeck's teenage killer named as Rocky Marciano Price as judge lifts order - Lancashire Telegraph",
+      "description": "THE judge in the Lindsay Birbeck murder trial has lifted a ban on the media naming the teenager who killed her.",
+      "url": "https://www.lancashiretelegraph.co.uk/news/18648783.lindsay-birbecks-teenage-killer-named-rocky-marciano-price/",
+      "urlToImage": "https://www.lancashiretelegraph.co.uk/resources/images/11692868/",
+      "publishedAt": "2020-08-13T11:26:00Z",
+      "content": "THE judge in the Lindsay Birbeck murder trial has lifted a ban on the media naming the teenager who killed her.\r\nWe can now reveal, for the first time, that the 17-year-old boy who was found guilty o\u2026 [+1651 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Theguardian.com"
+        "name": "Theguardian.comworld"
       },
-      "author": "Verna Yu",
-      "title": "Support for Hong Kong\u2019s rebels wavers after most violent week yet - The Guardian",
-      "description": "Although many remain sympathetic to the cause, citizens are becoming increasingly fearful",
-      "url": "https://www.theguardian.com/world/2019/nov/17/hong-kong-support-rebels-wavers-most-violent-week",
-      "urlToImage": "https://i.guim.co.uk/img/media/f643387222c2c16921c6976138a347e5d048a78e/0_73_5051_3030/master/5051.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=6b27391edd42af75bbab84d1363a5df2",
-      "publishedAt": "2019-11-17T09:00:00Z",
-      "content": "One crisp and sunny morning last week, the normally busy road outside the main entrance to the University of Hong Kong was eerily quiet. Overlooked by mango trees, the road was empty, save for piles of bricks that protesters had scattered across it overnight \u2026 [+7080 chars]"
+      "author": "Damian Carrington",
+      "title": "Exposure to air pollution may increase risk of Covid death, major study says - The Guardian",
+      "description": "Single-unit rise in exposure to small-particle pollution over previous decade may increase death rate by up to 6%",
+      "url": "https://amp.theguardian.comworld/2020/aug/13/study-of-covid-deaths-in-england-is-latest-to-find-air-pollution-link",
+      "urlToImage": "https://i.guim.co.uk/img/media/b4052b1a1d880c2efa7d6391dc2090dc4f9891b0/0_147_5180_3108/master/5180.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=581badbaea96a4ee8ab113145a6c3f20",
+      "publishedAt": "2020-08-13T11:00:00Z",
+      "content": "Long-term exposure to air pollution may increase the risk of death from Covid-19, according to a large study by the Office for National Statistics.\r\nIt analysed more than 46,000 coronavirus deaths in\u2026 [+4809 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Theguardian.com"
+        "name": "Mirror Online"
       },
-      "author": "Alex Hern",
-      "title": "Firefox\u2019s fight for the future of the web - The Guardian",
-      "description": "With Google\u2019s Chrome dominating the market, not-for-profit rival Mozilla is staking a comeback on its dedication to privacy",
-      "url": "https://www.theguardian.com/technology/2019/nov/17/firefox-mozilla-fights-back-against-google-chrome-dominance-privacy-fears",
-      "urlToImage": "https://i.guim.co.uk/img/media/8393a12ba0fa753b63dd818c1da36c2f5080af0c/0_164_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=a6d863302ad4f3065cba8e5486c161c8",
-      "publishedAt": "2019-11-17T09:00:00Z",
-      "content": "Why do you choose the browser you use? Maybe you think it loads pages more quickly. Maybe its made by the same firm as your device and you think its more compatible in some way. You prefer the graphics, perhaps, or it just happened to be pre-installed on your\u2026 [+10314 chars]"
+      "author": "Abigail O'Leary",
+      "title": "Boy, 17, feared dead after swimming in a quarry lagoon during heatwave - Mirror Online",
+      "description": "The youngster got into difficulty in Shavers End Quarry, near Stourport-on-Severn, Worcs., yesterday afternoon",
+      "url": "https://www.mirror.co.uk/news/uk-news/breaking-boy-17-feared-dead-22515185",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22515326.ece/ALTERNATES/s1200/0_ACP_CHP_130820Blue_Lagoon_8195JPG.jpg",
+      "publishedAt": "2020-08-13T10:51:00Z",
+      "content": "A 17-year-old boy is feared dead after swimming in a quarry lagoon during the heatwave.\r\nThe youngster got into difficulty in Shavers End Quarry, near Stourport-on-Severn, Worcs., yesterday afternoon\u2026 [+1154 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Theguardian.com"
+        "name": "Sky.com"
       },
-      "author": "Harriet Sherwood",
-      "title": "Dudley North: from safe Labour seat to top Tory target - The Guardian",
-      "description": "Party allegiances in this strongly pro-Brexit Midlands town are being overturned",
-      "url": "https://www.theguardian.com/politics/2019/nov/17/dudley-labour-under-threat-top-tory-target-west-midlands",
-      "urlToImage": "https://i.guim.co.uk/img/media/4f7dce17480f77f66db9abdd1fd17d04735b30a7/0_117_3508_2105/master/3508.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=40be6463441e443028f76583576c217b",
-      "publishedAt": "2019-11-17T08:59:00Z",
-      "content": "Outside Dudley town hall, bitter disappointment hung in the cold, damp air. Its just blow after blow after blow these days, said Jackie Smith, who had paid \u00a32.50 to hear Nigel Farages vision for Britain. She and others who turned up ready to Change Politics f\u2026 [+6039 chars]"
+      "author": "Bethany Minelle",
+      "title": "Fleabag stars' coronavirus hardship fund gets \u00a3500,000 boost from Amazon - Sky News",
+      "description": "Phoebe Waller-Bridge and Olivia Colman say \"the industry will survive anything when we hold each other up\".",
+      "url": "https://news.sky.com/story/fleabag-stars-coronavirus-hardship-fund-gets-500-000-boost-from-amazon-12048247",
+      "urlToImage": "https://e3.365dm.com/20/08/1600x900/skynews-phoebe-waller-bridge_5066222.jpg?20200813090346",
+      "publishedAt": "2020-08-13T10:50:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Tim de Lisle, Rob Smyth",
+      "title": "England v Pakistan: second Test, day one \u2013 live! - The Guardian",
+      "description": "Over-by-over report: Can Pakistan bounce back in Southampton? Or will England\u2019s momentum continue? Find out here",
+      "url": "https://www.theguardian.com/sport/live/2020/aug/13/cricket-england-pakistan-second-test-day-one-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/a24eaa88bd797eb0a5319c38d4e664a7019d5776/0_338_3097_1858/master/3097.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=43d13c88c627585f00269d9b112c71aa",
+      "publishedAt": "2020-08-13T10:35:00Z",
+      "content": "11.55am BST11:55\r\n12th over: Pakistan 34-1 (Abid Ali 17, Azhar Ali 8) Its a double change as Root sends for Chris Woakes, the king of the chasers. Straightaway, his outswinger is curving like his Ali\u2026 [+4348 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Jonathan Pryce: Netflix's The Crown casts its final Prince Philip - BBC News",
+      "description": "Oscar-nominated actor Jonathan Pryce will play Prince Philip in the 1990s in Netflix's royal drama.",
+      "url": "https://www.bbc.co.uk/news/entertainment-arts-53762955",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D036/production/_113920335_philip.jpg",
+      "publishedAt": "2020-08-13T10:32:09Z",
+      "content": "Image copyrightBBC/Getty ImagesImage caption\r\n Jonathan Pryce will play the Duke of Edinburgh in the 1990s and early 2000s\r\nAfter playing kings, a Pope, a cardinal - and The High Sparrow in Game of T\u2026 [+3731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Tim Walker",
+      "title": "First Thing: Kamala Harris is making the case against Trump - The Guardian",
+      "description": "Joe Biden\u2019s running mate said president had left US and its global reputation \u2018in tatters\u2019. Plus, pop culture is due a reckoning about colourism",
+      "url": "https://www.theguardian.com/us-news/2020/aug/13/first-thing-kamala-harris-is-making-the-case-against-trump",
+      "urlToImage": "https://i.guim.co.uk/img/media/5fd18e7303828a81613594f979fdbbeed1ebec2e/0_100_3845_2308/master/3845.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3da9dcf8208d0c1fd8daff399bddda20",
+      "publishedAt": "2020-08-13T10:08:00Z",
+      "content": "Good morning. Donald Trumps failures in leadership have left America in tatters, said Joe Bidens new running mate, Kamala Harris, during their first joint appearance on the Democratic presidential ti\u2026 [+7295 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Motorsport.com"
       },
-      "author": "Jack Benyon",
-      "title": "Macau GP: Verschoor beats Vips in thrilling duel - Motorsport.com, Edition: Global",
-      "description": "MP Motorsport\u2019s Richard Verschoor scored a giantkilling Macau Grand Prix victory after fending off Red Bull Formula 1 junior Juri Vips in the new F3 car\u2019s Guia circuit debut.",
-      "url": "https://www.motorsport.com/f3/news/macau-gp-verschoor-rookie-vips/4598652/",
-      "urlToImage": "https://cdn-1.motorsport.com/images/amp/YW7k5m1Y/s6/richard-verschoor-mp-motorspor.jpg",
-      "publishedAt": "2019-11-17T08:36:02Z",
-      "content": "In a dramatic start to the Grand Prix, 2019 FIA Formula 3 champion Robert Shwartzman of Prema Racing and ART Grand Prixs Christian Lundgaard went side by side behind Vips for second, but Ferrari junior Shwartzman was on the left-hand side into Mandarin and Lu\u2026 [+5895 chars]"
+      "author": "Luke Smith",
+      "title": "Vandoorne returns as McLaren reserve for Spanish GP - Motorsport.com",
+      "description": "Stoffel Vandoorne will return to being on standby for McLaren on Formula 1 race weekends from the Spanish Grand Prix following the conclusion of the Formula E season.",
+      "url": "https://www.motorsport.com/f1/news/vandoorne-mclaren-reserve-spanish-gp/4855054/",
+      "urlToImage": "https://cdn-1.motorsport.com/images/amp/2QzWQqaY/s6/stoffel-vandoorne-mercedes-ben.jpg",
+      "publishedAt": "2020-08-13T10:01:38Z",
+      "content": "McLaren doesn't have a formally-appointed reserve within its team to support full-time drivers Lando Norris and Carlos Sainz, instead holding an agreement to share Mercedes back-ups if required.\r\nBut\u2026 [+1857 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Itv.com"
+        "name": "Daily Record"
+      },
+      "author": "Andy Philip, Peter Davidson",
+      "title": "Nicola Sturgeon coronavirus update LIVE as Scots school forced to close after positive case - Scottish Daily Record",
+      "description": "The First Minister released the latest daily coronavirus figures and delivered a house-party warning at her regular briefing.",
+      "url": "https://www.dailyrecord.co.uk/news/scottish-news/nicola-sturgeon-coronavirus-update-live-22513822",
+      "urlToImage": "https://i2-prod.dailyrecord.co.uk/incoming/article22513826.ece/ALTERNATES/s1200/1_Nicola-Sturgeon1888JPG.jpg",
+      "publishedAt": "2020-08-13T09:55:28Z",
+      "content": "Nicola Sturgeon pleaded with Scots to avoid house parties as she revealed the latest figures on Covid-19.\r\nAberdeen is still in a form of lockdown, and concern is rising in Orkney and Glasgow.\r\nPeter\u2026 [+727 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Joanna Partridge",
+      "title": "Tui records \u00a31bn loss amid Covid-19 travel shutdown - The Guardian",
+      "description": "Sales fell 98% from April-June as pandemic halted travel but Europe\u2019s biggest holiday firm says future bookings offer hope",
+      "url": "https://www.theguardian.com/business/2020/aug/13/tui-records-1bn-loss-amid-covid-19-travel-shutdown",
+      "urlToImage": "https://i.guim.co.uk/img/media/b9d5f474b51da9aff7e95b45cf6fe0b7860c1da6/0_172_5904_3544/master/5904.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=65319f3ded32210b8f1080ab76862c54",
+      "publishedAt": "2020-08-13T09:54:00Z",
+      "content": "Tui, Europes biggest holiday company, made a loss of 1.1bn (\u00a3994m) between April and June after the pandemic put a stop to travel and triggered a 98% fall in revenues.\r\nThe group, which began to take\u2026 [+2195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "By Georgia Simcox For Mailonline",
+      "title": "Jeremy Clarkson pokes fun at A-level exams chaos as he boasts about receiving a C and 2Us - Daily Mail",
+      "description": "Jeremy Clarkson posts a similar tweet to his 7.2 million followers on A-level results day every year to reassure students who didn't get the results they wanted.",
+      "url": "https://www.dailymail.co.uk/news/article-8622921/Jeremy-Clarkson-pokes-fun-level-exams-chaos-boasts-receiving-C-2Us.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/08/13/10/31900778-0-image-a-40_1597312433645.jpg",
+      "publishedAt": "2020-08-13T09:32:48Z",
+      "content": "Jeremy Clarkson has used his annual A-level Results Day tweet to poke fun at results chaos.\u00a0\r\nThe former Top Gear presenter, 60, wrote: 'A level results not great? Don't worry, I got a C and 2 Us and\u2026 [+4000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daily Mail"
+      },
+      "author": "By Danyal Hussain For Mailonline",
+      "title": "Earthquake strikes English Channel with magnitude 3 tremors rocking Sussex coast - Daily Mail",
+      "description": "A\u00a0magnitude-3 earthquake has rocked Sussex after hitting the English Channel at 9am this morning, around 30 miles from Eastbourne.",
+      "url": "https://www.dailymail.co.uk/news/article-8623053/Earthquake-strikes-English-Channel-magnitude-3-tremors-rocking-Sussex-coast.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2020/08/13/10/31900828-0-image-a-5_1597312574510.jpg",
+      "publishedAt": "2020-08-13T09:31:34Z",
+      "content": "A\u00a0magnitude-3 earthquake has rocked Sussex after hitting the English Channel.\r\nThe tremor was detected in the sea this morning at 9am, around 30 miles from Eastbourne.\r\nEarthquake-tracking organisati\u2026 [+1369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mirror Online"
+      },
+      "author": "Jake Polden",
+      "title": "Philippe Coutinho sparks excitement as he appears to drop huge Arsenal transfer hint - Mirror Online",
+      "description": "Arsenal supporters have been keeping a very close eye on Philippe Coutinho's social media in recent weeks, given he has been linked with a move to north London",
+      "url": "https://www.mirror.co.uk/sport/football/news/philippe-coutinho-arsenal-transfer-latest-22514583",
+      "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article22391274.ece/ALTERNATES/s1200/0_Screen-Shot-2020-07-21-at-121659.jpg",
+      "publishedAt": "2020-08-13T09:25:00Z",
+      "content": "Philippe Coutinho has sparked excitement among Arsenal fans by apparently dropping a transfer hint on social media.\r\nGunners supporters have been keeping an eye on the Brazilian's social media in rec\u2026 [+1984 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "Sky",
+      "title": "Policewoman saves man from oncoming train after his wheelchair gets stuck on tracks - Sky News",
+      "description": "Bodycam footage captures the moment Erica Urrea ran out of her patrol car and saved the man with seconds to spare in California.",
+      "url": "https://news.sky.com/story/policewoman-saves-man-from-oncoming-train-after-his-wheelchair-got-stuck-on-tracks-12048174",
+      "urlToImage": "https://e3.365dm.com/20/08/1600x900/skynews-train-track-rescue_5066231.jpg?20200813091742",
+      "publishedAt": "2020-08-13T09:11:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Coronavirus: A-level pupils in Wales post record top grades - BBC News",
+      "description": "After an unprecedented year of closed schools and no exams, Welsh pupils get their A-level results.",
+      "url": "https://www.bbc.co.uk/news/uk-wales-53752765",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12B7/production/_113919740_mediaitem113919739.jpg",
+      "publishedAt": "2020-08-13T09:10:38Z",
+      "content": "Image caption\r\n Education Minister Kirsty Williams meets students at Merthyr College\r\nTop grades at A-level have gone up in Wales, after a chaotic summer when schools shut and exams were cancelled.\r\n\u2026 [+11082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sky.com"
+      },
+      "author": "Aubrey Allegretti",
+      "title": "A-level results: 280,000 entries downgraded in England after coronavirus stops exams - Sky News",
+      "description": "Some 35.6% of marks were adjusted down by one grade, 3.3% were brought down by two, and 0.2% came down by three.",
+      "url": "https://news.sky.com/story/35-of-a-level-results-downgraded-by-one-grade-figures-reveal-12048251",
+      "urlToImage": "https://e3.365dm.com/20/08/1600x900/skynews-a-level-a-levels-a-level_5066251.jpg?20200813094708",
+      "publishedAt": "2020-08-13T09:07:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
       },
       "author": null,
-      "title": "Army accused of covering up killing of children in Afghanistan and Iraq - ITV News",
-      "description": "The Government and the Army have been accused of covering up the killing of children in Afghanistan and Iraq.\n\nLeaked documents allegedly contain evidence implicating British troops in killing children and the torture of civilians.\n\nA BBC/Sunday Times investi\u2026",
-      "url": "https://www.itv.com/news/2019-11-17/army-accused-of-covering-up-war-crimes-in-afghanistan-and-iraq/",
-      "urlToImage": "https://news.images.itv.com/image/file/2041936/img.jpg",
-      "publishedAt": "2019-11-17T08:34:00Z",
-      "content": "The Government and the Army have been accused of covering up the killing of children in Afghanistan and Iraq.\r\nLeaked documents allegedly contain evidence implicating British troops in killing children and the torture of civilians.\r\nA BBC/Sunday Times investi\u2026 [+2722 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Express.co.uk"
-      },
-      "author": "Georgina Laud",
-      "title": "General election 2019 candidates: Who is standing in your area? Search here - Express.co.uk",
-      "description": "CANDIDATES for December\u2019s election have now been announced, but which would-be MPs are standing in your areas? Find out using our handy tool below.",
-      "url": "https://www.express.co.uk/news/politics/1205250/General-election-2019-candidates-which-MP-standing-my-area-constituency-finder",
-      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/139/750x445/1205250.jpg",
-      "publishedAt": "2019-11-17T08:33:00Z",
+      "title": "New Zealand coronavirus cases rise to 17 as Jacinda Ardern braces for more infections - Evening Standard",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9M2RkY254NjQ5RnfSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2020-08-13T08:49:12Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Autosport.com"
+        "name": "Daily Record"
       },
-      "author": "Scott Mitchell",
-      "title": "Ferrari F1 qualifying slump \"interesting\" - Mercedes' Allison - autosport.com",
-      "description": "Ferrari's inability to score pole position at the last two Formula 1 grands prix having held a strong qualifying advantage before that is \"interesting\", says Mercedes technical director James Allison",
-      "url": "https://www.autosport.com/f1/news/147206/ferrari-qualifying-slump-interesting--allison",
-      "urlToImage": "https://d2d0b2rxqzh1q5.cloudfront.net/sv/2.183/dir/ce6/image/ce6369de988686dcee6d2123d0e05cb7.jpg",
-      "publishedAt": "2019-11-17T08:28:58Z",
-      "content": "Ferrari's inability to score pole position at the last two Formula 1 grands prix having held a strong qualifying advantage before that is \"interesting\", says Mercedes technical director James Allison.\r\nRed Bull driver Max Verstappen has qualified on pole for \u2026 [+2620 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Saudi Aramco IPO set to value oil group at $1.7tn - Financial Times",
-      "description": "Kingdom pares back ambition after international investors balk at $2tn target",
-      "url": "https://www.ft.com/content/6a84cf06-090a-11ea-b2d6-9bf4d1957a67",
-      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F534b8a82-f776-11e9-bbe1-4db3476c5ff0?source=next-opengraph&fit=scale-down&width=900",
-      "publishedAt": "2019-11-17T08:28:00Z",
-      "content": "Saudi Arabia is offering a 1.5 per cent stake in its state oil company at a price range implying a valuation of $1.6tn-$1.7tn, after international investors balked at the crown prince\u2019s initial target of $2tn.\r\nSaudi Aramco announced a 30-32 riyal range on Su\u2026 [+4309 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Dailymail.co.uk"
-      },
-      "author": "By Laura Fox For Mailonline",
-      "title": "The Crown: The biggest moments in history to look out for in Series Three - Daily Mail",
-      "description": "The Crown Series Three will see Britain's Royal Family played by a whole new cast, as the series transitions into the 1960s and 70s, which was a period of huge change.",
-      "url": "https://www.dailymail.co.uk/tvshowbiz/article-7633351/The-Crown-biggest-moments-history-look-Series-Three.html",
-      "urlToImage": "https://i.dailymail.co.uk/1s/2019/11/05/16/20632920-0-image-a-140_1572971346980.jpg",
-      "publishedAt": "2019-11-17T08:22:00Z",
-      "content": "The Crown Series Three will see Britain's Royal Family played by a whole new cast, as the series transitions into the 1960s and 70s.\r\nIt was a period that saw huge change in the United Kingdom, with political upheaval and national reform, along with a range o\u2026 [+13496 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Metro.co.uk"
-      },
-      "author": "Mel Evans",
-      "title": "I'm A Celebrity 2019: Ant McPartlin on reuniting with Declan Donnelly - Metro.co.uk",
-      "description": "The pair are back together for I'm A Celebrity.",
-      "url": "https://metro.co.uk/2019/11/17/ant-mcpartlin-way-keen-reunite-best-mate-declan-donnelly-im-celebrity-troubled-year-11169522/",
-      "urlToImage": "https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/11/PRI_96940486-e1573906134368_1573981324.jpg?quality=90&strip=all&w=1200&h=630&crop=1&zoom=1&ssl=1",
-      "publishedAt": "2019-11-17T08:16:00Z",
-      "content": "The boys are back down under (Picture: Rex Features)\r\nAfter a year away from Im A Celebrity, Ant McPartlin has opened up on reuniting with his best mate Declan Donnelly for the 2019 series.\r\nAs it prepares to launch this evening, the lads are back in front of\u2026 [+2481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theguardian.com"
-      },
-      "author": "David Smith",
-      "title": "Impeachment inquiry: Trump ally must choose between loyalty and saving himself - The Guardian",
-      "description": "Gordon Sondland may try to balance fealty to Trump with the fate that has befallen others in the president\u2019s circle: prison time",
-      "url": "https://www.theguardian.com/us-news/2019/nov/17/impeachment-inquiry-gordon-sondland-trump-ally-loyalty-saving-himself",
-      "urlToImage": "https://i.guim.co.uk/img/media/63b6ceee4e46158c3a70192c87e53203040e8ace/0_54_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=085d93277c78b07199cb8511cf03a6d3",
-      "publishedAt": "2019-11-17T07:33:00Z",
-      "content": "Donald Trumps fate in the impeachment inquiry could rest in the hands of a donor and supporter under pressure to turn against the US president to save his own skin.\r\nGordon Sondland, the American ambassador to the European Union, is due to testify on Wednesda\u2026 [+5500 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theguardian.com"
-      },
-      "author": "Oliver Laughland",
-      "title": "Louisiana re-elects Democrat governor John Bel Edwards, in blow to Trump - The Guardian",
-      "description": "Incumbent wins tight gubernatorial race despite president\u2019s strong support of Republican Eddie Rispone",
-      "url": "https://www.theguardian.com/us-news/2019/nov/17/louisiana-re-elects-democrat-governor-john-bel-edwards-in-blow-to-trump",
-      "urlToImage": "https://i.guim.co.uk/img/media/5d6188f91447179a06f7e01cce68906843377d3e/0_34_5000_3001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75dc25e9b9c4f82664bf9a7fe6d05e6c",
-      "publishedAt": "2019-11-17T07:21:00Z",
-      "content": "Louisianas Democrat governor, John Bel Edwards, has been re-elected following a closely fought gubernatorial battle that marked another statewide defeat for Republicans and Donald Trump in the American south.\r\nThe president had invested significant resources \u2026 [+2614 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Express.co.uk"
-      },
-      "author": "Matt Penn",
-      "title": "England team news: Predicted 4-3-3 line-up vs Kosovo - Sterling returns, Gomez injured - Express",
-      "description": "England take on Kosovo in their final Euro 2020 qualifying game later this evening (5pm).",
-      "url": "https://www.express.co.uk/sport/football/1205304/England-team-news-Predicted-line-up-Raheem-Sterling-Joe-Gomez-Gareth-Southgate",
-      "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/67/750x445/1205304.jpg",
-      "publishedAt": "2019-11-17T06:30:00Z",
-      "content": null
+      "author": "Douglas Barrie, Tara Fitzpatrick",
+      "title": "Four firefighters injured in Stonehaven rail tragedy as official investigation gets underway - Daily Record",
+      "description": "Two firefighters were taken to hospital while a further two remained at the scene.",
+      "url": "https://www.dailyrecord.co.uk/news/scottish-news/four-firefighters-injured-stonehaven-rail-22514121",
+      "urlToImage": "https://i2-prod.dailyrecord.co.uk/incoming/article22511417.ece/ALTERNATES/s1200/0_0-1.png",
+      "publishedAt": "2020-08-13T08:44:00Z",
+      "content": "Four firefighters were injured while responding to the Stonehaven derailment tragedy yesterday.\r\nThe Scottish Fire and Rescue Service confirmed the news stating two firefighters were taken to hospita\u2026 [+4852 chars]"
     }
   ]
 }

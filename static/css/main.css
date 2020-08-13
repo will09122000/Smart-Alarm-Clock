@@ -1,0 +1,29 @@
+body {
+    background-color: #333333;
+    color: #FFFFFF;
+    font-family: roboto;
+}
+
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: roboto;
+    font-size: 150%;
+}
+
+h2 {
+    color: #FFFFFF;
+    text-align: left;
+    font-family: roboto;
+}
+
+p {
+    color: #FFFFFF;
+    text-align: center;
+    font-family: roboto;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}

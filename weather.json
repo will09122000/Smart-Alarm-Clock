@@ -13,30 +13,30 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 10.1,
-    "feels_like": 7.93,
-    "temp_min": 8.33,
-    "temp_max": 11.67,
-    "pressure": 1005,
-    "humidity": 81
+    "temp": 26.37,
+    "feels_like": 26.66,
+    "temp_min": 23.89,
+    "temp_max": 29,
+    "pressure": 1011,
+    "humidity": 51
   },
   "visibility": 10000,
   "wind": {
     "speed": 2.1,
-    "deg": 350
+    "deg": 0
   },
   "clouds": {
     "all": 20
   },
-  "dt": 1578569833,
+  "dt": 1597325390,
   "sys": {
     "type": 1,
     "id": 1472,
     "country": "GB",
-    "sunrise": 1578557630,
-    "sunset": 1578587261
+    "sunrise": 1597294765,
+    "sunset": 1597347517
   },
-  "timezone": 0,
+  "timezone": 3600,
   "id": 2649808,
   "name": "Exeter",
   "cod": 200
