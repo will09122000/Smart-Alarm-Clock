@@ -1,43 +1,49 @@
 {
   "coord": {
-    "lon": -3.53,
-    "lat": 50.72
+    "lon": -2.16,
+    "lat": 51.99
   },
   "weather": [
     {
-      "id": 801,
-      "main": "Clouds",
-      "description": "few clouds",
-      "icon": "02d"
+      "id": 520,
+      "main": "Rain",
+      "description": "light intensity shower rain",
+      "icon": "09d"
+    },
+    {
+      "id": 701,
+      "main": "Mist",
+      "description": "mist",
+      "icon": "50d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 26.37,
-    "feels_like": 26.66,
-    "temp_min": 23.89,
-    "temp_max": 29,
-    "pressure": 1011,
-    "humidity": 51
+    "temp": 20.71,
+    "feels_like": 22.45,
+    "temp_min": 20,
+    "temp_max": 21.11,
+    "pressure": 1013,
+    "humidity": 94
   },
-  "visibility": 10000,
+  "visibility": 3500,
   "wind": {
-    "speed": 2.1,
-    "deg": 0
+    "speed": 2.6,
+    "deg": 360
   },
   "clouds": {
-    "all": 20
+    "all": 75
   },
-  "dt": 1597325390,
+  "dt": 1597325637,
   "sys": {
     "type": 1,
-    "id": 1472,
+    "id": 1363,
     "country": "GB",
-    "sunrise": 1597294765,
-    "sunset": 1597347517
+    "sunrise": 1597294210,
+    "sunset": 1597347415
   },
   "timezone": 3600,
-  "id": 2649808,
-  "name": "Exeter",
+  "id": 2636071,
+  "name": "Tewkesbury",
   "cod": 200
 }
